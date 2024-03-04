@@ -46,12 +46,6 @@
       </a>
       <br>PostgreSQL
     </td>
-        <td align="center" width="96">
-      <a href="#">
-        <img src="https://mui.com/static/logo.png" width="48" height="48" alt="MUI" />
-      </a>
-      <br>MUI
-    </td>
   </tr>
 </table>
 
