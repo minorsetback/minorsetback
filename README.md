@@ -1,7 +1,6 @@
 <h1 align="left" id="readme-title">:wave: Hello there! I'm Vladyslav</h1>
 <h3 align="left">I do ReactJS/NextJS/NestJS Engineering things</h3>
 
-- :book: &nbsp;Contact with me and learn more about my projects on my **[UpWork]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <h2 align="left">Favorite Tech</h2>
@@ -48,7 +47,6 @@
     </td>
   </tr>
 </table>
-
 <!-- links -->
 
 [linkedin]: https://www.linkedin.com/in/vladyslav-i-9b22b5298 "Vladyslav Ievdokymov LinkedIn"
